@@ -1,0 +1,29 @@
+.home-page{
+    width: 50%;
+    margin: auto;
+    border: 15px solid #f2f8f6;
+} 
+.filter {
+    border: 2px solid #c5d9e0;
+    background-color: #e7f0ef;
+}
+.search {
+    width: 86%;
+    border: 2px solid #cfd3d2;
+    color: #616664;
+}
+#show-img{
+    height:450px;
+    border: 2px dashed #c5d7d9;
+    margin:5px;
+}
+img{
+    max-width: 100%;
+    
+}
+li{
+    list-style:none;
+    width: 155px;
+    height: 155px;
+    display:inline-flex;
+}
